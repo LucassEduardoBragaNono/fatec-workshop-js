@@ -13,4 +13,4 @@ function somar()
 	return r;
 }
 
-console.log(somar())
+console.log(somar());
