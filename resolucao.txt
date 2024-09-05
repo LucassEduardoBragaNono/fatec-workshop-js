@@ -1,0 +1,16 @@
+// Nome: Lucas Eduardo Braga Nono
+// 2 semestre de DSM
+
+//Resolução do exercício
+
+let x = 5;
+const y = 5;
+x += 10;
+
+function somar()
+{
+	const r = x + y;
+	return r;
+}
+
+console.log(somar())
